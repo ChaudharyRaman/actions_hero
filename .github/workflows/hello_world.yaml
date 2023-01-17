@@ -15,7 +15,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: hello world
-        run: echo "HELLO WORLD"
+        run: echo "HELLO WORLD 1000"
         shell: bash
   goodbye:
     runs-on: ubuntu-latest
