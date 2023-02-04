@@ -1,0 +1,20 @@
+{
+  "name": "actions_hero",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'built'",
+    "test": "node ./tests/dummy.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChaudharyRaman/actions_hero.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChaudharyRaman/actions_hero/issues"
+  },
+  "homepage": "https://github.com/ChaudharyRaman/actions_hero#readme"
+}
